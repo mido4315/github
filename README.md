@@ -63,5 +63,9 @@ The main focus is on **relative changes** between original and masked datasets (
 ## Results summary (one sentence)
 Both masking methods attenuate spatial autocorrelation relative to the original data, and **AGDM preserves local spatial autocorrelation patterns slightly better** than Donut according to similarity metrics.
 
+## Data access
+The underlying shapefiles/microdata are not included in this repository.  
+If you need access to the data to reproduce the analysis, please contact me via email.
+
 ## Author
 Mohamed Hassan  
